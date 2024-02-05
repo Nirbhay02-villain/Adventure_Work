@@ -5,4 +5,7 @@ This data was derived from the [AdventureWorks sample databases](https://learn.m
 
 The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
 
-![1](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/10294c60-26a5-486f-bf75-274c5b78e9fe)
+
+
+<img align="left" width="100" height="100" src="![1](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/10294c60-26a5-486f-bf75-274c5b78e9fe)">
+
