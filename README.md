@@ -57,3 +57,15 @@ This project involved the following tasks:
 - Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
 
 ![Screenshot (16)](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/890b7322-de9a-4b65-a357-ee960e4cc048)
+
+- The most profitable product categories are clothing and accessories.
+
+- There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
+- 
+![Screenshot (17)](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/846a76f8-66a2-43d9-b87b-59ba0882f893)
+
+- However, revenue per customer has been declining year-on-year:
+
+![Screenshot (18)](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/bc5af06c-4c74-4830-b4b0-34e9e929d7a1)
+
+- While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
