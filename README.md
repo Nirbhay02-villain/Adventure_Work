@@ -61,7 +61,7 @@ This project involved the following tasks:
 - The most profitable product categories are clothing and accessories.
 
 - There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
-- 
+
 ![Screenshot (17)](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/846a76f8-66a2-43d9-b87b-59ba0882f893)
 
 - However, revenue per customer has been declining year-on-year:
