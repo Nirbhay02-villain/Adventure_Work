@@ -7,5 +7,5 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
 
 
 
-<img align="left" width="100" height="100" src="![1](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/10294c60-26a5-486f-bf75-274c5b78e9fe)">
+<img align="left" src="![1](https://github.com/Nirbhay02-villain/Adventure_Work/assets/61178899/10294c60-26a5-486f-bf75-274c5b78e9fe)">
 
